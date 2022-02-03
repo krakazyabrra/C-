@@ -1,2 +1,0 @@
-# introduktion
-My first repository
